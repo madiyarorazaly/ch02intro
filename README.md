@@ -20,7 +20,7 @@ Read [Introduction to OS](http://pages.cs.wisc.edu/~remzi/OSTEP/intro.pdf) and a
 11. **What is atomicity?** your answer goes here
     - **Is a C/C++ statement atomic?** your answer goes here 
     - **Is a Java statement atomic?** your answer goes here 
-    - **Is a an assembler statement atomic?** your answer goes here 
+    - **Is an assembler statement atomic?** your answer goes here 
 
 13. **What does persistence mean?** your answer goes here
 
