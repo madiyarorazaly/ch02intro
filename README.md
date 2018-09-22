@@ -6,7 +6,7 @@ Read [Introduction to OS](http://pages.cs.wisc.edu/~remzi/OSTEP/intro.pdf) and a
 1. **What is an operating system? What does it do?** your answer goes here 
 2. **What is virtualization?** your answer goes here 
 3. **How does an OS provide access to its features?** your answer goes here 
-4. **What illusion does a virtualized CPU provide?**
+4. **What illusion does a virtualized CPU provide?** your answer goes here 
     - **How does this affect the user experience?** your answer goes here 
     - **How does this affect the developer experience?** your answer goes here 
     - **What if the CPU were not virtualized?** your answer goes here 
