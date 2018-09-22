@@ -13,7 +13,7 @@ Read [Introdcution to OS](http://pages.cs.wisc.edu/~remzi/OSTEP/intro.pdf) and a
 5. **What is a memory address?** your answer goes here
 6. **What is memory virtualization?** your answer goes here
     - **Why would we want this?** your answer goes here 
-8. **What happens if you write a C++ program that writes past the end of an array?**  your answer goes here
+8. **What happens if you write a C/C++ program that writes past the end of an array?**  your answer goes here
       - **Can this affect other programs?** your answer goes here 
 9. **What is a thread?** your answer goes here
 10. **Why would we ever write a multi-threaded program?** your answer goes here
