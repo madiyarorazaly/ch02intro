@@ -1,7 +1,7 @@
 # ch02intro
 Introduction to OS, Chapter 02
 
-Read [Introdcution to OS](http://pages.cs.wisc.edu/~remzi/OSTEP/intro.pdf) and answer the following review questions.
+Read [Introduction to OS](http://pages.cs.wisc.edu/~remzi/OSTEP/intro.pdf) and answer the following review questions.
 
 1. **What is an operating system? What does it do?** your answer goes here 
 2. **What is virtualization?** your answer goes here 
